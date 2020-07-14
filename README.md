@@ -19,6 +19,19 @@ This is mostly for my personal learning and future references, and if anyone nee
 
 If found helpful please press a ⭐.
 
+## Other Similar Repositories
+
+<table>
+  <tr align="center">
+    <td><img src="https://hrcdn.net/hackerrank/assets/styleguide/logo_wordmark-13074b67abceb42ce8fd38bdeaac6926.svg" height="50"></td>
+    <td><a href="https://github.com/Anmol53/Hackerrank-Problem-Solving">Hackerrank Problems</a></td>
+  </tr>
+  <tr align="center">
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/LeetCode_Logo_black_with_text.svg/1280px-LeetCode_Logo_black_with_text.svg.png" height="50px"></td>
+    <td><a href="https://github.com/Anmol53/Leetcode-Problems">Leetcode Problems</a></td>
+  </tr>
+</table>
+
 ## INDEX
 #### Arrays
 | Subdomain	| Problem Statement | Solution c | Solution java | Solution js | Max Score |
