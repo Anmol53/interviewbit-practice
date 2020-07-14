@@ -34,9 +34,9 @@ If found helpful please press a ⭐.
 
 ## INDEX
 #### Arrays
-| Subdomain	| Problem Statement | Solution c | Solution java | Solution js | Max Score |
-| :-------: | :---------------: | :--------: | :-----------: | :---------: | :---: |
-| Sorting | [Wave Array](https://www.interviewbit.com/problems/wave-array/) |[]() | [Solution.java](https://github.com/Anmol53/Interviewbit-Practice/blob/master/Arrays/WaveArray.java)|[]()|225|
+| Subdomain	| Problem Statement | Solution java | Solution js | Max Score |
+| :-------: | :---------------: | :-----------: | :---------: | :---: |
+| Sorting | [Wave Array](https://www.interviewbit.com/problems/wave-array/) | [Solution.java](https://github.com/Anmol53/Interviewbit-Practice/blob/master/Arrays/WaveArray.java)|[]()|225|
 <!--
 
 -->
