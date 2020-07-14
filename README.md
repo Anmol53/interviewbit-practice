@@ -1,6 +1,6 @@
 <p align="center"><a href="https://www.interviewbit.com/profile/anmol_53"><img src="https://assets.interviewbit.com/assets/ib_logo_svg-c7ed205b9475b598a9f652d7045054fa26b491fa95cf098569fa41ee0ac34259.svg.gz" height="80"></a></p>
 
-# Interviewbit Practice Questions
+# InterviewBit Practice Questions
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/Anmol53/Interviewbit-Practice) 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/Anmol53/Interviewbit-Practice?color=%23ff9900)
