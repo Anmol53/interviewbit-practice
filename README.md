@@ -3,7 +3,7 @@
 # InterviewBit Practice Questions
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/Anmol53/Interviewbit-Practice) 
-![GitHub commit activity](https://img.shields.io/github/commit-activity/y/Anmol53/Interviewbit-Practice?color=%23ff9900)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/y/Anmol53/Interviewbit-Practice?color=ff9900)
 ![License Badge](https://img.shields.io/github/license/Anmol53/Interviewbit-Practice)
 ![Forks Badge](https://img.shields.io/github/forks/Anmol53/Interviewbit-Practice)
 ![Stars Badge](https://img.shields.io/github/stars/Anmol53/Interviewbit-Practice)
