@@ -34,10 +34,10 @@ If found helpful please press a ⭐.
 
 ## INDEX
 #### Arrays
-| Subdomain	| Problem Statement | Solution java | Solution js | Max Score |
-| :-------: | :---------------: | :-----------: | :---------: | :---: |
-| Sorting | [Wave Array](https://www.interviewbit.com/problems/wave-array/) | [Solution.java](https://github.com/Anmol53/Interviewbit-Practice/blob/master/Arrays/WaveArray.java)|[]()|225|
-| Bucketing | [Find Duplicate in Array](https://www.interviewbit.com/problems/find-duplicate-in-array/) | [Solution.java](https://github.com/Anmol53/Interviewbit-Practice/blob/master/Arrays/Find%20Duplicate%20in%20Array.java)|[]()|450|
+| Subdomain	| Problem Statement | Solution java | Max Score |
+| :-------: | :---------------: | :-----------: | :---: |
+| Sorting | [Wave Array](https://www.interviewbit.com/problems/wave-array/) | [Solution.java](https://github.com/Anmol53/Interviewbit-Practice/blob/master/Arrays/WaveArray.java)|225|
+| Bucketing | [Find Duplicate in Array](https://www.interviewbit.com/problems/find-duplicate-in-array/) | [Solution.java](https://github.com/Anmol53/Interviewbit-Practice/blob/master/Arrays/Find%20Duplicate%20in%20Array.java)|450|
 <!--
 
 -->
