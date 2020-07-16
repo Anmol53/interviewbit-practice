@@ -45,6 +45,7 @@ If found helpful please press a ⭐.
 | Array math | [Add One To Number](https://www.interviewbit.com/problems/add-one-to-number/) | [Solution.java](https://github.com/Anmol53/Interviewbit-Practice/blob/master/Arrays/AddOneToNumber.java)|225|
 | Sorting | [Wave Array](https://www.interviewbit.com/problems/wave-array/) | [Solution.java](https://github.com/Anmol53/Interviewbit-Practice/blob/master/Arrays/WaveArray.java)|225|
 | Bucketing | [Find Duplicate in Array](https://www.interviewbit.com/problems/find-duplicate-in-array/) | [Solution.java](https://github.com/Anmol53/Interviewbit-Practice/blob/master/Arrays/Find%20Duplicate%20in%20Array.java)|450|
+| Additional Practice | [Leaders in an array](https://www.interviewbit.com/problems/leaders-in-an-array/) | [Solution.java](https://github.com/Anmol53/Interviewbit-Practice/blob/master/Arrays/LeadersInAnArray.java)|200|
 
 #### Math
 | Subdomain	| Problem Statement | Solution java | Max Score |
