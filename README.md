@@ -33,14 +33,24 @@ If found helpful please press a ⭐.
 </table>
 
 ## INDEX
+#### Programming
+- [Arrays](https://github.com/Anmol53/Interviewbit-Practice/tree/master/Arrays)
+- [Math](https://github.com/Anmol53/Interviewbit-Practice/tree/master/Math)
+
+## Content
 #### Arrays
 | Subdomain	| Problem Statement | Solution java | Max Score |
 | :-------: | :---------------: | :-----------: | :---: |
+| Array math | [Min Steps in Infinite Grid](https://www.interviewbit.com/problems/min-steps-in-infinite-grid/) | [Solution.java](https://github.com/Anmol53/Interviewbit-Practice/blob/master/Arrays/MinStepsInInfiniteGrid.java)|150|
+| Array math | [Add One To Number](https://www.interviewbit.com/problems/add-one-to-number/) | [Solution.java](https://github.com/Anmol53/Interviewbit-Practice/blob/master/Arrays/AddOneToNumber.java)|225|
 | Sorting | [Wave Array](https://www.interviewbit.com/problems/wave-array/) | [Solution.java](https://github.com/Anmol53/Interviewbit-Practice/blob/master/Arrays/WaveArray.java)|225|
 | Bucketing | [Find Duplicate in Array](https://www.interviewbit.com/problems/find-duplicate-in-array/) | [Solution.java](https://github.com/Anmol53/Interviewbit-Practice/blob/master/Arrays/Find%20Duplicate%20in%20Array.java)|450|
-<!--
 
--->
+#### Math
+| Subdomain	| Problem Statement | Solution java | Max Score |
+| :-------: | :---------------: | :-----------: | :---: |
+| Adhoc | [FizzBuzz](https://www.interviewbit.com/problems/fizzbuzz/) | [Solution.java](https://github.com/Anmol53/Interviewbit-Practice/blob/master/Math/FizzBuzz.java)|200|
+
 ## Author
 ***Anmol Agrawal***
 
