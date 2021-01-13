@@ -39,6 +39,7 @@ If found helpful please press a ⭐.
 
 ## Content
 #### Arrays
+
 | Subdomain	| Problem Statement | Solution java | Max Score |
 | :-------: | :---------------: | :-----------: | :---: |
 | Array math | [Min Steps in Infinite Grid](https://www.interviewbit.com/problems/min-steps-in-infinite-grid/) | [Solution.java](https://github.com/Anmol53/Interviewbit-Practice/blob/master/Arrays/MinStepsInInfiniteGrid.java)|150|
@@ -48,6 +49,7 @@ If found helpful please press a ⭐.
 | Additional Practice | [Leaders in an array](https://www.interviewbit.com/problems/leaders-in-an-array/) | [Solution.java](https://github.com/Anmol53/Interviewbit-Practice/blob/master/Arrays/LeadersInAnArray.java)|200|
 
 #### Math
+
 | Subdomain	| Problem Statement | Solution java | Max Score |
 | :-------: | :---------------: | :-----------: | :---: |
 | Adhoc | [FizzBuzz](https://www.interviewbit.com/problems/fizzbuzz/) | [Solution.java](https://github.com/Anmol53/Interviewbit-Practice/blob/master/Math/FizzBuzz.java)|200|
