@@ -27,7 +27,7 @@ If found helpful please press a ⭐.
       <a href="https://www.hackerrank.com/anmol_53"><img src="https://hrcdn.net/hackerrank/assets/styleguide/logo_wordmark-13074b67abceb42ce8fd38bdeaac6926.svg" height="100"></a>
       <br>
       Repo : 
-      <a href="https://anmolagrawal.tech/Hackerrank-Problem-Solving/">Hackerrank Problems</a>
+      <a href="https://anmolagrawal.dev/hackerrank-problem-solving/">Hackerrank Problems</a>
       <br>
       <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
       <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
@@ -43,7 +43,7 @@ If found helpful please press a ⭐.
       <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
       <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><br>
       Repo : 
-      <a href="https://anmolagrawal.tech/Leetcode-Problems/">Leetcode Problems</a>
+      <a href="https://anmolagrawal.dev/leetcode-problems/">Leetcode Problems</a>
       <br>
       <br>
     </td>
